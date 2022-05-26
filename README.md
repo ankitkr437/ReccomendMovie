@@ -1,4 +1,10 @@
 # RecommendMovie
 #### Webiste is live at https://recommend-movie1.herokuapp.com/
 ## Home Page
-[http://url/to/img.png](https://firebasestorage.googleapis.com/v0/b/images-and-pdf-for-handnotes.appspot.com/o/images%2Fhome-page.png?alt=media&token=403a1c37-fa50-4aad-9050-d1a752c785ee)
+
+## How to clone the project?
+#### Step 1: Clone this repository to your local computer.
+#### Step 2: Install all the libraries written in the requirements.txt file with the command pip install -r requirements.txt
+#### Step 3: Open your command prompt from your project directory and run the file app.py by writting the command python app.py.
+#### Step 4: open your browser and type http://127.0.0.1:5000/ in the new tabe.
+
