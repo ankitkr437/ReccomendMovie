@@ -1,7 +1,7 @@
 # RecommendMovie
-### This project is a content based movie recommendation system made using flask(Web framework written in python) and the other python libraries(Pandas,Numpy,Scikit Learn,etc). 
+### This project is a content based movie recommendation system made using Flask(Web framework written in python) and the other python libraries(Pandas,Numpy,Scikit Learn,etc). 
 
-### Webiste is live at https://recommend-movie1.herokuapp.com/
+### This project is live at https://recommend-movie1.herokuapp.com/
 
 ### How to clone the project?
 #### Step 1: Clone this repository to your local computer.
