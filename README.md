@@ -1,6 +1,5 @@
 # RecommendMovie
 #### Webiste is live at https://recommend-movie1.herokuapp.com/
-## Home Page
 
 ### How to clone the project?
 #### Step 1: Clone this repository to your local computer.
@@ -10,6 +9,6 @@
 
 ## This will be the home page 
 
-
 ![home-page](https://user-images.githubusercontent.com/91136267/170476244-8c0b47a0-2f0f-4deb-a8d3-646f099b3598.png)
+
 
