@@ -1,5 +1,5 @@
 # RecommendMovie
-#### Webiste is live at https://recommend-movie1.herokuapp.com/
+### Webiste is live at https://recommend-movie1.herokuapp.com/
 
 ### How to clone the project?
 #### Step 1: Clone this repository to your local computer.
