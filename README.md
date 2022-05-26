@@ -10,3 +10,6 @@
 
 ## This will be the home page 
 
+
+![home-page](https://user-images.githubusercontent.com/91136267/170476244-8c0b47a0-2f0f-4deb-a8d3-646f099b3598.png)
+
