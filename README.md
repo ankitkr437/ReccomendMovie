@@ -1,5 +1,9 @@
 # RecommendMovie
 ### This project is a content based movie recommendation system made using Flask(Web framework written in python) and the some other python libraries like Pandas, Numpy, Scikit-Learn, etc. 
+#### In this project, small dataset is used so for better experience You can use larger dataset
+### Source of larger dataset:- 
+#### 1. https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+#### 2. https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=credits.csv
 
 ### This project is live at https://recommend-movie1.herokuapp.com/
 
