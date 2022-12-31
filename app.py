@@ -21,4 +21,4 @@ def hello():
     return render_template('index.html', rm=movie_detail, moviel=movie_l)
 
 if __name__ == "__main__":
-    app.run(debug=False,host='0.0.0.0')
+    app.run(debug=False)
